@@ -814,7 +814,7 @@ figure.effect-portfolio figcaption::after {
     transform-origin: 100% 0;
 }
 figure.effect-portfolio h2 {
-    padding-top: 66%;
+    padding-top: 62%;
     -webkit-transition: -webkit-transform 0.35s;
     transition: transform 0.35s;
 }
